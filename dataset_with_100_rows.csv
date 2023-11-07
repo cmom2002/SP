@@ -1,0 +1,101 @@
+Age,Childish diseases,Accident or serious trauma,Surgical intervention,Frequency of alcohol consumption,Smoking habit,Blood sample results,Health number,Race,Eye color,Height,Weight,Sperm quality,Degree,Job,Genetic results,Psycological evaluation,Sexual orientation,Preocupations
+30,no,yes,yes,once a week,occasional,Normal,10000000,asian,black,213,40,low,12 grade,electrician,altered,passed,heterosexual,"xenophobia, homophobia"
+35,yes,no,yes,once a week,daily,Altered,10000007,white non-Hispanic,brown,143,117,high,master,engineer,altered,passed,heterosexual,"xenophobia, homophobia, racism"
+27,yes,no,no,hardly ever or never,never,Normal,10000014,hispanic (of any race),black,204,87,low,12 grade,psychologist,normal,failed,heterosexual,"animal abuse, homophobia, xenophobia, global warming, machismo, racism"
+32,no,yes,yes,hardly ever or never,never,Normal,10000021,hispanic (of any race),brown,219,40,high,12 grade,paramedic,altered,passed,heterosexual,"animal abuse, xenophobia, global warming, racism"
+30,yes,yes,no,once a week,never,Altered,10000028,asian,brown,155,144,average,phD,plumber,altered,failed,heterosexual,"xenophobia, global warming, animal abuse, machismo, racism"
+30,yes,no,yes,once a week,occasional,Normal,10000035,asian,green,195,83,high,phD,journalist,normal,failed,heterosexual,xenophobia
+30,no,no,no,once a week,never,Normal,10000042,hispanic (of any race),green,171,87,high,12 grade,mechanic,normal,failed,heterosexual,"machismo, xenophobia"
+36,yes,yes,yes,several times a week,never,Normal,10000049,caucasian,green,188,53,average,banchelor,chef,altered,passed,heterosexual,"homophobia, xenophobia, global warming"
+30,no,no,yes,once a week,never,Normal,10000056,hispanic (of any race),brown,201,43,low,banchelor,paramedic,altered,failed,heterosexual,
+29,yes,no,no,hardly ever or never,never,Normal,10000063,hispanic (of any race),blue,223,48,low,phD,scientist,normal,failed,heterosexual,"animal abuse, global warming"
+30,yes,yes,no,once a week,occasional,Normal,10000070,asian,green,175,110,average,phD,police officer,altered,failed,heterosexual,"animal abuse, racism"
+32,yes,yes,yes,several times a week,occasional,Normal,10000077,white non-Hispanic,black,203,60,average,other,singer,normal,passed,heterosexual,"racism, xenophobia, machismo, animal abuse, homophobia"
+32,yes,yes,yes,once a week,daily,Normal,10000084,white non-Hispanic,black,156,55,high,banchelor,dentist,altered,passed,heterosexual,"homophobia, animal abuse, racism, xenophobia, machismo"
+33,yes,no,no,hardly ever or never,never,Normal,10000091,white non-Hispanic,black,214,110,high,phD,banker,altered,failed,heterosexual,"animal abuse, homophobia, xenophobia, global warming, machismo"
+35,yes,yes,yes,several times a day,never,Normal,10000098,black,brown,218,112,average,banchelor,firefighter,normal,failed,heterosexual,"homophobia, machismo, xenophobia, animal abuse, global warming"
+33,yes,yes,no,hardly ever or never,daily,Normal,10000105,caucasian,green,141,112,high,other,chef,normal,passed,androgynosexual,
+30,yes,no,yes,hardly ever or never,never,Normal,10000112,hispanic (of any race),black,216,46,average,master,plumber,normal,passed,heterosexual,"racism, global warming, xenophobia, animal abuse"
+30,yes,no,yes,once a week,never,Altered,10000119,asian,blue,225,150,low,other,physician,altered,failed,heterosexual,global warming
+32,yes,yes,yes,hardly ever or never,daily,Normal,10000126,hispanic (of any race),blue,220,58,high,master,paramedic,altered,failed,heterosexual,"machismo, animal abuse, homophobia"
+30,yes,no,no,once a week,daily,Altered,10000133,white non-Hispanic,black,227,40,high,master,psychologist,altered,passed,heterosexual,"homophobia, global warming, animal abuse, racism, machismo, xenophobia"
+30,no,no,yes,once a week,never,Normal,10000140,asian,blue,152,91,average,banchelor,lawyer,altered,passed,heterosexual,"global warming, homophobia, racism, animal abuse"
+32,yes,no,no,several times a week,occasional,Normal,10000147,asian,green,154,134,average,banchelor,programmer,altered,passed,heterosexual,"animal abuse, homophobia"
+30,yes,yes,no,once a week,never,Normal,10000154,caucasian,black,174,96,high,12 grade,scientist,altered,passed,homosexual,"xenophobia, animal abuse"
+30,yes,no,yes,hardly ever or never,never,Altered,10000161,asian,green,198,92,average,banchelor,veterinary technician,normal,failed,heterosexual,"xenophobia, racism, animal abuse"
+28,yes,no,yes,hardly ever or never,never,Normal,10000168,white non-Hispanic,black,214,51,average,master,lawyer,normal,passed,heterosexual,
+30,yes,no,no,hardly ever or never,never,Normal,10000175,caucasian,blue,197,94,low,12 grade,nurse,altered,passed,homosexual,"xenophobia, machismo, homophobia, racism, animal abuse, global warming"
+30,yes,no,yes,several times a week,never,Altered,10000182,hispanic (of any race),black,166,83,average,master,architect,normal,passed,heterosexual,"racism, animal abuse, global warming"
+32,yes,yes,no,several times a week,never,Altered,10000189,black,green,214,55,average,phD,psychologist,altered,failed,heterosexual,"animal abuse, xenophobia, racism, homophobia, machismo"
+28,no,no,yes,hardly ever or never,never,Normal,10000196,caucasian,black,217,131,average,master,journalist,normal,passed,homosexual,homophobia
+30,no,no,yes,several times a week,occasional,Altered,10000203,white non-Hispanic,brown,191,132,low,other,mechanic,altered,passed,heterosexual,"animal abuse, xenophobia, machismo, global warming, racism"
+29,yes,no,yes,hardly ever or never,never,Normal,10000210,caucasian,black,213,58,low,phD,lawyer,normal,passed,lithromantic,"racism, xenophobia"
+28,yes,no,no,hardly ever or never,never,Normal,10000217,black,black,169,102,average,master,truck driver,normal,passed,heterosexual,
+30,no,no,no,hardly ever or never,never,Normal,10000224,hispanic (of any race),blue,216,64,average,other,programmer,altered,passed,heterosexual,"global warming, racism, animal abuse"
+28,yes,yes,yes,once a week,occasional,Normal,10000231,asian,brown,170,88,low,banchelor,nurse,altered,passed,heterosexual,
+28,yes,yes,yes,hardly ever or never,never,Normal,10000238,white non-Hispanic,black,172,73,high,12 grade,librarian,altered,passed,heterosexual,"homophobia, machismo, animal abuse, racism, global warming"
+32,yes,yes,no,several times a week,never,Normal,10000245,caucasian,black,142,132,high,other,nurse,altered,failed,heterosexual,global warming
+32,yes,no,yes,hardly ever or never,never,Normal,10000252,asian,brown,228,69,low,banchelor,plumber,normal,failed,heterosexual,"homophobia, global warming, machismo"
+28,yes,no,yes,hardly ever or never,never,Normal,10000259,asian,green,169,147,low,12 grade,surgeon,altered,failed,heterosexual,"animal abuse, xenophobia, homophobia, global warming"
+30,no,no,yes,several times a week,occasional,Altered,10000266,black,brown,158,76,low,other,nurse,normal,failed,heterosexual,"global warming, animal abuse"
+30,yes,no,no,hardly ever or never,never,Normal,10000273,black,black,200,131,high,phD,actor,altered,passed,heterosexual,
+28,yes,yes,yes,once a week,daily,Normal,10000280,asian,blue,165,62,low,12 grade,accountant,normal,passed,heterosexual,"global warming, homophobia, racism, xenophobia, animal abuse, machismo"
+28,yes,yes,no,once a week,daily,Normal,10000287,black,black,158,129,average,master,singer,normal,failed,heterosexual,"machismo, racism, animal abuse, homophobia"
+28,yes,no,yes,once a week,daily,Normal,10000294,hispanic (of any race),black,202,145,average,phD,chemist,normal,failed,heterosexual,
+28,yes,no,no,hardly ever or never,never,Normal,10000301,caucasian,blue,229,148,average,phD,teacher,altered,passed,heterosexual,
+28,yes,yes,no,hardly ever or never,occasional,Normal,10000308,white non-Hispanic,brown,194,129,average,12 grade,banker,altered,passed,heterosexual,"xenophobia, animal abuse"
+28,yes,no,no,hardly ever or never,occasional,Normal,10000315,caucasian,brown,217,115,high,phD,electrician,normal,failed,heterosexual,
+28,yes,no,no,hardly ever or never,never,Normal,10000322,caucasian,green,175,141,high,other,electrician,altered,failed,heterosexual,"racism, animal abuse, global warming, xenophobia"
+31,yes,yes,no,several times a week,daily,Normal,10000329,black,black,151,60,low,master,doctor,normal,passed,heterosexual,"xenophobia, animal abuse, racism"
+30,yes,yes,yes,once a week,never,Normal,10000336,hispanic (of any race),green,208,112,average,master,nurse,normal,failed,homosexual,"animal abuse, machismo, racism, global warming, homophobia, xenophobia"
+32,yes,yes,yes,several times a week,never,Normal,10000343,caucasian,black,186,91,high,12 grade,librarian,normal,failed,heterosexual,"global warming, homophobia, machismo, animal abuse, racism"
+30,yes,no,yes,once a week,never,Normal,10000350,white non-Hispanic,black,201,80,high,other,journalist,normal,passed,heterosexual,"global warming, machismo, animal abuse, xenophobia"
+28,yes,yes,no,hardly ever or never,never,Normal,10000357,asian,brown,204,93,low,phD,surgeon,altered,passed,heterosexual,"homophobia, animal abuse, xenophobia, machismo, global warming, racism"
+28,yes,yes,no,once a week,occasional,Normal,10000364,black,black,193,49,high,master,writer,normal,failed,heterosexual,"racism, xenophobia, global warming"
+28,yes,yes,yes,once a week,occasional,Normal,10000371,hispanic (of any race),blue,215,94,low,other,police officer,altered,passed,homosexual,"racism, homophobia, machismo, global warming, animal abuse"
+29,yes,no,yes,hardly ever or never,never,Normal,10000378,black,blue,230,60,low,phD,engineer,altered,passed,heterosexual,"global warming, machismo, xenophobia, racism, homophobia, animal abuse"
+28,yes,no,yes,once a week,daily,Normal,10000385,hispanic (of any race),black,147,78,high,banchelor,actor,altered,passed,bisexual,"homophobia, racism, machismo, global warming"
+28,yes,yes,no,once a week,occasional,Normal,10000392,hispanic (of any race),black,175,69,average,other,journalist,altered,failed,heterosexual,"racism, global warming, machismo, xenophobia, homophobia"
+30,yes,yes,yes,hardly ever or never,never,Normal,10000399,hispanic (of any race),black,188,79,low,12 grade,surgeon,normal,passed,skoliosexual,"animal abuse, racism, global warming, xenophobia, homophobia, machismo"
+28,yes,yes,no,every day,daily,Normal,10000406,white non-Hispanic,black,214,69,average,master,firefighter,altered,failed,bisexual,"racism, machismo, animal abuse, global warming, xenophobia"
+28,no,no,no,once a week,daily,Normal,10000413,hispanic (of any race),brown,212,101,average,12 grade,teacher,altered,failed,bisexual,"homophobia, machismo, animal abuse"
+28,no,no,no,once a week,occasional,Normal,10000420,asian,black,224,148,average,banchelor,veterinary technician,normal,passed,asexual,"racism, xenophobia"
+30,yes,no,no,hardly ever or never,daily,Normal,10000427,white non-Hispanic,blue,195,149,low,12 grade,fairdresser,altered,failed,homosexual,machismo
+29,yes,yes,yes,several times a week,never,Normal,10000434,asian,green,172,70,high,12 grade,doctor,normal,failed,heterosexual,"machismo, homophobia, global warming"
+28,yes,no,no,hardly ever or never,never,Normal,10000441,black,blue,179,123,high,other,firefighter,altered,passed,heterosexual,"animal abuse, homophobia, xenophobia, machismo"
+28,yes,no,no,once a week,never,Normal,10000448,asian,brown,159,134,low,phD,nurse,normal,passed,heterosexual,"global warming, xenophobia"
+28,no,no,yes,hardly ever or never,never,Normal,10000455,black,blue,212,121,average,phD,designer,normal,failed,heterosexual,global warming
+27,yes,yes,no,once a week,occasional,Normal,10000462,black,black,191,119,low,12 grade,nurse,normal,passed,heterosexual,"homophobia, machismo, xenophobia, animal abuse, global warming, racism"
+27,yes,no,no,hardly ever or never,never,Normal,10000469,hispanic (of any race),black,190,120,low,master,psychologist,altered,failed,heterosexual,"global warming, homophobia"
+27,yes,no,no,once a week,occasional,Normal,10000476,caucasian,blue,196,88,high,12 grade,journalist,normal,failed,heterosexual,animal abuse
+27,yes,no,yes,once a week,never,Normal,10000483,caucasian,black,210,142,low,phD,chef,altered,passed,heterosexual,"animal abuse, homophobia, xenophobia"
+27,yes,yes,no,once a week,occasional,Altered,10000490,black,blue,161,140,high,12 grade,police officer,normal,failed,heterosexual,"homophobia, machismo, animal abuse, racism, xenophobia, global warming"
+30,yes,no,no,hardly ever or never,never,Normal,10000497,asian,brown,199,66,low,banchelor,actor,normal,failed,heterosexual,"xenophobia, machismo"
+28,yes,no,no,several times a week,occasional,Normal,10000504,caucasian,black,184,114,average,other,farmer,altered,failed,heterosexual,"homophobia, machismo, animal abuse, xenophobia, racism, global warming"
+27,yes,no,no,once a week,never,Normal,10000511,asian,brown,153,56,average,master,surgeon,normal,failed,heterosexual,"xenophobia, racism, global warming, machismo, animal abuse, homophobia"
+28,yes,no,no,once a week,never,Normal,10000518,white non-Hispanic,blue,213,72,low,phD,farmer,normal,failed,heterosexual,"xenophobia, global warming, homophobia"
+32,yes,no,yes,hardly ever or never,daily,Normal,10000525,black,green,142,88,high,banchelor,pilot,normal,passed,heterosexual,animal abuse
+32,yes,no,yes,several times a week,occasional,Normal,10000532,white non-Hispanic,green,198,101,average,banchelor,fairdresser,altered,passed,heterosexual,xenophobia
+31,yes,yes,yes,once a week,never,Normal,10000539,hispanic (of any race),green,155,73,average,phD,paramedic,normal,passed,heterosexual,"racism, machismo, xenophobia"
+28,yes,yes,no,once a week,never,Normal,10000546,asian,blue,215,86,high,master,nurse,normal,failed,heterosexual,"racism, global warming, homophobia"
+36,yes,no,yes,several times a week,occasional,Normal,10000553,black,green,214,53,low,banchelor,singer,altered,passed,heterosexual,homophobia
+35,yes,yes,no,hardly ever or never,never,Normal,10000560,black,blue,191,84,low,banchelor,paramedic,normal,failed,heterosexual,
+33,yes,yes,yes,once a week,occasional,Normal,10000567,asian,black,227,107,low,banchelor,firefighter,altered,failed,heterosexual,xenophobia
+35,yes,no,no,several times a week,never,Normal,10000574,caucasian,black,165,114,average,phD,veterinary technician,normal,passed,homosexual,"global warming, machismo"
+33,yes,yes,yes,hardly ever or never,never,Normal,10000581,white non-Hispanic,brown,177,127,low,other,artist,normal,failed,heterosexual,"global warming, machismo, racism, homophobia, xenophobia, animal abuse"
+32,yes,no,no,hardly ever or never,daily,Altered,10000588,caucasian,brown,210,69,high,banchelor,pilot,normal,failed,bisexual,"racism, global warming"
+34,yes,yes,no,several times a week,daily,Normal,10000595,caucasian,black,195,48,low,other,mechanic,normal,passed,heterosexual,"racism, machismo, global warming, xenophobia"
+32,yes,yes,yes,several times a week,daily,Normal,10000602,asian,green,188,55,high,banchelor,librarian,normal,failed,queer,"machismo, animal abuse, global warming, xenophobia"
+32,yes,yes,yes,once a week,daily,Normal,10000609,asian,brown,196,118,average,master,writer,altered,passed,heterosexual,animal abuse
+33,yes,yes,yes,hardly ever or never,never,Normal,10000616,hispanic (of any race),green,186,51,low,phD,physician,normal,failed,heterosexual,"animal abuse, xenophobia, global warming, homophobia, machismo"
+33,yes,yes,yes,hardly ever or never,daily,Normal,10000623,white non-Hispanic,brown,166,71,low,banchelor,accountant,altered,failed,bisexual,"xenophobia, homophobia, racism, machismo, animal abuse, global warming"
+33,yes,yes,yes,once a week,never,Normal,10000630,asian,black,226,144,high,master,scientist,altered,failed,heterosexual,"global warming, machismo, animal abuse, homophobia"
+32,yes,no,no,hardly ever or never,daily,Normal,10000637,asian,black,205,103,low,other,pilot,normal,failed,heterosexual,"animal abuse, racism, homophobia, global warming"
+32,yes,yes,no,once a week,never,Normal,10000644,white non-Hispanic,black,158,47,high,12 grade,farmer,altered,failed,heterosexual,"animal abuse, global warming, racism, xenophobia"
+32,yes,no,yes,once a week,never,Altered,10000651,black,blue,195,44,average,banchelor,accountant,altered,passed,heterosexual,"animal abuse, xenophobia"
+28,yes,no,no,several times a week,daily,Normal,10000658,white non-Hispanic,green,209,63,low,master,electrician,normal,passed,heterosexual,homophobia
+30,yes,no,no,hardly ever or never,never,Normal,10000665,black,brown,170,71,low,master,journalist,normal,passed,heterosexual,
+29,yes,no,no,once a week,occasional,Normal,10000672,hispanic (of any race),green,199,53,average,phD,veterinarian,normal,failed,heterosexual,"machismo, animal abuse, racism"
+30,yes,yes,yes,hardly ever or never,never,Normal,10000679,black,brown,187,97,average,other,journalist,altered,passed,heterosexual,
+30,yes,no,yes,hardly ever or never,occasional,Normal,10000686,hispanic (of any race),green,169,41,average,master,journalist,altered,failed,heterosexual,"animal abuse, racism, global warming, machismo"
+30,no,yes,yes,several times a week,never,Normal,10000693,asian,blue,201,118,low,phD,firefighter,normal,passed,homosexual,homophobia
